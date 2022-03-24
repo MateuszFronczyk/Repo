@@ -1,4 +1,4 @@
-from setuptools import serup, setup
+from setuptools import setup, setup
 
 setup(
     name='kalkulator',
