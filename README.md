@@ -1,1 +1,1 @@
-# Prosty kalkulator
+# Simple calculator
